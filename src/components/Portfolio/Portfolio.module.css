@@ -1,0 +1,10 @@
+.portfolio-items {
+  padding: 20px 0 20px;
+}
+
+.portfolioLayer {
+  z-index: 99999999;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.3);
+  box-sizing: content-box;
+}

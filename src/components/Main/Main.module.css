@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #07bd98;
+}
+.main img {
+  width: 250px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,16 @@
+.item {
+  cursor: pointer;
+}
+.layer {
+  opacity: 0;
+  transition: all 0.15s;
+}
+.item:hover .layer {
+  background-color: #1abc9ce5;
+  opacity: 1;
+}
+
+.layer i {
+  font-size: 5rem;
+  color: #fff;
+}
